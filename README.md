@@ -42,3 +42,9 @@ Nesse curso foi possível aprender conceitos básicos de sintaxe da linguagem de
 - Como concatenar Strings;
 - Atalho para criação da main;
 - Variáveis guardam valores e não referências;
+
+### Na Aula 6
+
+- Como usar o if;
+- Como usar operações lógicas AND (&&) e OR (| |);
+- Trabalhar com o escopo de variáveis;
