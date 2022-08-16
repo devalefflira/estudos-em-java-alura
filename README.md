@@ -48,3 +48,11 @@ Nesse curso foi possível aprender conceitos básicos de sintaxe da linguagem de
 - Como usar o if;
 - Como usar operações lógicas AND (&&) e OR (| |);
 - Trabalhar com o escopo de variáveis;
+
+### Na Aula 7
+
+- A sintaxe do While e do For;
+- O operador +=
+- O operador ++
+- Laços aninhados
+- A funcionalidade do break
